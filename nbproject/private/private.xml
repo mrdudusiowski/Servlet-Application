@@ -3,17 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/src/java/pl/dudus/servlet/crud/DeleteData.java</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/web/index.jsp</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/web/web-components/footer.jsp</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/web/js/scripts.js</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/src/java/pl/dudus/servlet/crud/AddData.java</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/src/java/pl/dudus/servlet/MainServlet.java</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/web/web-components/modals/updateData.jsp</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/web/web-components/header_with_menu.jsp</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/src/java/pl/dudus/servlet/LogoutServlet.java</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/web/web-components/modals/addData.jsp</file>
-            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/src/java/pl/dudus/servlet/crud/UpdateData.java</file>
+            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/src/java/pl/dudus/websocket/WebSocketServer.java</file>
+            <file>file:/E:/Studia/TSS/Projekty/Zadanie3/Zadanie4_DuduśPatryk_IO1/src/java/pl/dudus/websocket/SessionHandler.java</file>
         </group>
     </open-files>
 </project-private>

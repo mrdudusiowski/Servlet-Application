@@ -9,7 +9,7 @@
     
     <script type="text/javascript" src="js/jquery-3.5.0.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script> 
-    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
     <title>Patryk Duduś TSS</title>
 </head>
 <body style="background-color: #587ED7;">
@@ -20,8 +20,11 @@
       </a>
    <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="index.jsp">Strona główna</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="chart.jsp">WebSocket</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" target="_blank" href="/rest/members">REST</a>
