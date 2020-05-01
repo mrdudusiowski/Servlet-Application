@@ -1,0 +1,30 @@
+.login-box{
+    padding: 5%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: whitesmoke;
+}
+
+.time-box{
+    margin-top: 10px;
+    float: right;
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: Allerta Stencil;
+}
+
+#time-1{
+    color: rgb(109, 0, 0);
+    font-size: 30px;
+}
+
+#time-2{
+    color: rgb(109, 0, 0);
+    font-size: 20px;
+}
+
+.center{
+    padding-top: 50px;
+    margin: 0 auto;
+}

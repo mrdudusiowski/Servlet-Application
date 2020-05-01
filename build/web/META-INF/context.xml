@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/">
+  <Resource auth="Container" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            maxActive="100" 
+            maxIdle="30" 
+            maxWait="10000" 
+            name="jdbc/bazaTestowaMSSQL" 
+            password="tomcat" 
+            type="javax.sql.DataSource" 
+            url="jdbc:sqlserver://155.158.112.31:1433;databaseName=tomcat" username="tomcatuser"/>
+  
+  <Realm className="org.apache.catalina.realm.DataSourceRealm"
+         dataSourceName="jdbc/authority"
+         resourceName="AuthDatabase"
+         roleNameCol="role_name"
+         userCredCol="user_pass"
+         userNameCol="user_name"
+         userRoleTable="user_roles"
+         userTable="users"/>
+</Context>
